@@ -36,5 +36,6 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Number Blaster](games/number-blaster.sb3) | Maths arcade: blast the falling sums with the right answer. |
 | [Times Table Tower](games/times-table-tower.sb3) | Maths stacking: drop the block when it shows the answer. |
 | [Number Bonds Pop](games/number-bonds-pop.sb3) | Maths bubbles: pop two that make the target. |
+| [Shape Builder](games/shape-builder.sb3) | Angles: turn each piece to fit its outline. |
 
 All games, characters and artwork are original.
