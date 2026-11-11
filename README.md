@@ -35,5 +35,6 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Splat Patrol Deluxe](games/splat-patrol-deluxe.sb3) | Raccoons in disguise, combos, splashes and more. |
 | [Number Blaster](games/number-blaster.sb3) | Maths arcade: blast the falling sums with the right answer. |
 | [Times Table Tower](games/times-table-tower.sb3) | Maths stacking: drop the block when it shows the answer. |
+| [Number Bonds Pop](games/number-bonds-pop.sb3) | Maths bubbles: pop two that make the target. |
 
 All games, characters and artwork are original.
