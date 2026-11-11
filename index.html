@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scratch Fun</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+:root { --bg: #fff8ec; --surface: #ffffff; --fg: #2a1f14; --muted: #6b5b4a; --line: #ecdcc4; --accent: #c2410c;
+  --display: "Fredoka", "Trebuchet MS", sans-serif; --body: "Atkinson Hyperlegible", "Segoe UI", sans-serif; }
+@media (prefers-color-scheme: dark) { :root { --bg: #18130e; --surface: #221b14; --fg: #f3e9dc; --muted: #bba994; --line: #3a2f24; --accent: #fb923c; color-scheme: dark; } }
+body { margin: 0; background: var(--bg); color: var(--fg); font: 17px/1.55 var(--body); padding: 40px max(16px, env(safe-area-inset-left)) 72px; }
+main { max-width: 1040px; margin: 0 auto; display: grid; gap: 40px; }
+h1, h2 { font-family: var(--display); font-weight: 600; margin: 0; }
+h1 { font-size: clamp(2.2rem, 6vw, 3.2rem); }
+header p { margin: 8px 0 0; color: var(--muted); max-width: 62ch; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 18px; margin-top: 16px; }
+.card { display: grid; gap: 4px; align-content: start; background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+  padding: 10px 10px 14px; color: inherit; text-decoration: none; }
+.card:hover, .card:focus-visible { border-color: var(--accent); outline: none; }
+.card img { width: 100%; height: auto; border-radius: 8px; display: block; margin-bottom: 6px; }
+.t { font: 600 1.15rem var(--display); }
+.s { font-size: 0.8rem; color: var(--accent); font-weight: 700; }
+.d { font-size: 0.92rem; color: var(--muted); }
+footer { color: var(--muted); font-size: 0.9rem; border-top: 1px solid var(--line); padding-top: 20px; }
+a { color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Scratch Fun</h1>
+    <p>Step-by-step Scratch tutorials for kids, and finished games to download, open in the Scratch editor and remix. Every tutorial step has its own project file, so you can always catch up.</p>
+  </header>
+  <section>
+    <h2>Tutorials</h2>
+    <div class="grid">
+      <a class="card" href="tutorials/sky-guard/"><img src="tutorials/sky-guard/step4.png" alt="" loading="lazy" width="480" height="360"><span class="t">Sky Guard</span><span class="s">Scratch tutorial for kids (8+) · 4 short steps · basic blocks only</span><span class="d">Meteors are falling on your valley! Turn the cannon with the mouse, click to shoot, and don't let three of them land. The whole game is 43 lines of blocks, with no custom blocks and no lists.</span></a>
+      <a class="card" href="tutorials/sheepdog/"><img src="tutorials/sheepdog/step4.png" alt="" loading="lazy" width="480" height="360"><span class="t">Sheepdog</span><span class="s">Scratch tutorial for kids (8+) · 4 short steps · basic blocks only</span><span class="d">You are the dog. The sheep are scared of you, so wherever you run, they run the other way. Use that to herd all eight into the pen, as fast as you can. The whole game is 28 lines of blocks.</span></a>
+      <a class="card" href="tutorials/maze-maker/"><img src="tutorials/maze-maker/step4.png" alt="" loading="lazy" width="480" height="360"><span class="t">Maze Maker</span><span class="s">Scratch tutorial for kids · 4 short steps</span><span class="d">A little mole digs tunnels through the soil, and when it is done, there is a maze. Every time you click the green flag, you get a new one. The trick that makes it work is a block that uses itself!</span></a>
+      <a class="card" href="tutorials/splat-patrol/"><img src="tutorials/splat-patrol/step5.png" alt="" loading="lazy" width="480" height="360"><span class="t">Splat Patrol</span><span class="s">Scratch tutorial for kids (8+) · 5 steps · basic blocks only</span><span class="d">Sneaky raccoon bandits are hiding in the houses, ready to throw water balloons. Windows pop open: splat the raccoons before they splat you, but don't splash the granny or the kid! Round after round the houses change, and the raccoons get quicker.</span></a>
+      <a class="card" href="tutorials/beanstalk-bounce/"><img src="tutorials/beanstalk-bounce/step5.png" alt="" loading="lazy" width="480" height="360"><span class="t">Beanstalk Bounce</span><span class="s">Scratch tutorial for kids (9+) · 5 steps</span><span class="d">A frog bounces up a giant beanstalk, from leaf to leaf. The higher he gets, the further apart the leaves are, and the more tricks they have: moving leaves, crumbling leaves, springy mushrooms, and bees. How high can you climb?</span></a>
+      <a class="card" href="tutorials/comet-rally/"><img src="tutorials/comet-rally/step6.png" alt="" loading="lazy" width="480" height="360"><span class="t">Build Comet Rally</span><span class="s">Scratch tutorial for kids · 6 steps · about 1 hour</span><span class="d">In Comet Rally you play against a robot. You both have a paddle. Hit the glowing ball back, and try to get it past the robot. The first one to 5 points wins!</span></a>
+      <a class="card" href="tutorials/dust-hopper/"><img src="tutorials/dust-hopper/step8.png" alt="" loading="lazy" width="480" height="360"><span class="t">Build Dust Hopper</span><span class="s">Scratch tutorial · 8 steps · about 3–4 hours</span><span class="d">Dust Hopper is a landing game. You fly a small survey drone over an asteroid and set it down gently on a landing pad. Along the way you will learn how real game physics work, with speed, gravity, thrust and angles, and how to organise a game into small, named pieces.</span></a>
+      <a class="card" href="tutorials/lantern-deep/"><img src="tutorials/lantern-deep/step7.png" alt="" loading="lazy" width="480" height="360"><span class="t">Lantern Deep</span><span class="s">Scratch tutorial for older kids (10+) · 7 steps · a few afternoons</span><span class="d">Dig down forever. Your lantern only shows the squares right around you: coal, gold, gems, or lava. Collect coins, buy better pickaxes, and watch out for crawlers in the caves.</span></a>
+    </div>
+  </section>
+  <section>
+    <h2>Games</h2>
+    <p>Download a game (<b>.sb3</b>), then open it at <a href="https://scratch.mit.edu/projects/editor/">scratch.mit.edu/projects/editor</a> with <b>File › Load from your computer</b>.</p>
+    <div class="grid">
+      <a class="card" href="games/dust-hopper.sb3"><img src="games/dust-hopper.png" alt="" loading="lazy" width="480" height="360"><span class="t">Dust Hopper</span><span class="s">Scratch project (.sb3)</span><span class="d">Land the survey drone gently on a yellow pad.</span></a>
+      <a class="card" href="games/comet-rally.sb3"><img src="games/comet-rally.png" alt="" loading="lazy" width="480" height="360"><span class="t">Comet Rally</span><span class="s">Scratch project (.sb3)</span><span class="d">A two-paddle rally against a robot.</span></a>
+      <a class="card" href="games/glimmer-pop.sb3"><img src="games/glimmer-pop.png" alt="" loading="lazy" width="480" height="360"><span class="t">Glimmer Pop</span><span class="s">Scratch project (.sb3)</span><span class="d">Aim and pop bubbles: three of a colour burst.</span></a>
+      <a class="card" href="games/deep-dig.sb3"><img src="games/deep-dig.png" alt="" loading="lazy" width="480" height="360"><span class="t">Deep Dig</span><span class="s">Scratch project (.sb3)</span><span class="d">Dig for gold and gems; watch out for falling rocks.</span></a>
+      <a class="card" href="games/lantern-deep.sb3"><img src="games/lantern-deep.png" alt="" loading="lazy" width="480" height="360"><span class="t">Lantern Deep</span><span class="s">Scratch project (.sb3)</span><span class="d">Dig down forever; your lantern shows treasure, lava and crawlers.</span></a>
+      <a class="card" href="games/beanstalk-bounce.sb3"><img src="games/beanstalk-bounce.png" alt="" loading="lazy" width="480" height="360"><span class="t">Beanstalk Bounce</span><span class="s">Scratch project (.sb3)</span><span class="d">Bounce up the beanstalk, leaf by leaf.</span></a>
+      <a class="card" href="games/sky-guard.sb3"><img src="games/sky-guard.png" alt="" loading="lazy" width="480" height="360"><span class="t">Sky Guard</span><span class="s">Scratch project (.sb3)</span><span class="d">Turn the cannon and shoot the falling meteors.</span></a>
+      <a class="card" href="games/sheepdog.sb3"><img src="games/sheepdog.png" alt="" loading="lazy" width="480" height="360"><span class="t">Sheepdog</span><span class="s">Scratch project (.sb3)</span><span class="d">Herd all eight sheep into the pen.</span></a>
+      <a class="card" href="games/splat-patrol.sb3"><img src="games/splat-patrol.png" alt="" loading="lazy" width="480" height="360"><span class="t">Splat Patrol</span><span class="s">Scratch project (.sb3)</span><span class="d">Splat the raccoon bandits, not the villagers.</span></a>
+      <a class="card" href="games/splat-patrol-deluxe.sb3"><img src="games/splat-patrol-deluxe.png" alt="" loading="lazy" width="480" height="360"><span class="t">Splat Patrol Deluxe</span><span class="s">Scratch project (.sb3)</span><span class="d">Raccoons in disguise, combos, splashes and more.</span></a>
+    </div>
+  </section>
+  <footer>All games, characters and artwork are original. Made with a small Scratch workbench that writes the projects from code and tests them.</footer>
+</main>
+</body>
+</html>
