@@ -33,5 +33,6 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Sheepdog](games/sheepdog.sb3) | Herd all eight sheep into the pen. |
 | [Splat Patrol](games/splat-patrol.sb3) | Splat the raccoon bandits, not the villagers. |
 | [Splat Patrol Deluxe](games/splat-patrol-deluxe.sb3) | Raccoons in disguise, combos, splashes and more. |
+| [Number Blaster](games/number-blaster.sb3) | Maths arcade: blast the falling sums with the right answer. |
 
 All games, characters and artwork are original.
