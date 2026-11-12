@@ -37,5 +37,6 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Times Table Tower](games/times-table-tower.sb3) | Maths stacking: drop the block when it shows the answer. |
 | [Number Bonds Pop](games/number-bonds-pop.sb3) | Maths bubbles: pop two that make the target. |
 | [Shape Builder](games/shape-builder.sb3) | Angles: turn each piece to fit its outline. |
+| [Greater Gator](games/greater-gator.sb3) | Comparing: the gator eats the bigger number. |
 
 All games, characters and artwork are original.
