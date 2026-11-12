@@ -39,5 +39,6 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Shape Builder](games/shape-builder.sb3) | Angles: turn each piece to fit its outline. |
 | [Greater Gator](games/greater-gator.sb3) | Comparing: the gator eats the bigger number. |
 | [Number Line Jumper](games/number-line-jumper.sb3) | Number line: where will the frog land? |
+| [Pizza Fractions](games/pizza-fractions.sb3) | Fractions: pepperoni on just the right slices. |
 
 All games, characters and artwork are original.
