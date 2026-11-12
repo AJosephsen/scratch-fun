@@ -38,5 +38,6 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Number Bonds Pop](games/number-bonds-pop.sb3) | Maths bubbles: pop two that make the target. |
 | [Shape Builder](games/shape-builder.sb3) | Angles: turn each piece to fit its outline. |
 | [Greater Gator](games/greater-gator.sb3) | Comparing: the gator eats the bigger number. |
+| [Number Line Jumper](games/number-line-jumper.sb3) | Number line: where will the frog land? |
 
 All games, characters and artwork are original.
