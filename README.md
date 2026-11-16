@@ -40,5 +40,6 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Greater Gator](games/greater-gator.sb3) | Comparing: the gator eats the bigger number. |
 | [Number Line Jumper](games/number-line-jumper.sb3) | Number line: where will the frog land? |
 | [Pizza Fractions](games/pizza-fractions.sb3) | Fractions: pepperoni on just the right slices. |
+| [Starfire Rush](games/starfire-rush.sb3) | Shoot 'em up: waves, bosses, power-ups. |
 
 All games, characters and artwork are original.
