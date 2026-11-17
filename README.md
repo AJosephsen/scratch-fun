@@ -33,6 +33,7 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Beanstalk Bounce](games/beanstalk-bounce.sb3) | Bounce up the beanstalk, leaf by leaf. |
 | [Chimney Drop](games/chimney-drop.sb3) | Christmas: drop the presents down the chimneys. |
 | [Chain Spark](games/chain-spark.sb3) | Fireworks: place them, light one, watch the chain. |
+| [Chain Spark Deluxe](games/chain-spark-deluxe.sb3) | Fireworks puzzle: build, test, then GO for real. |
 | [Sky Guard](games/sky-guard.sb3) | Turn the cannon and shoot the falling meteors. |
 | [Sheepdog](games/sheepdog.sb3) | Herd all eight sheep into the pen. |
 | [Splat Patrol](games/splat-patrol.sb3) | Splat the raccoon bandits, not the villagers. |
