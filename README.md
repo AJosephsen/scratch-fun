@@ -8,6 +8,7 @@ Open `index.html` for the overview.
 
 | Tutorial | Level | About |
 |---|---|---|
+| [Chimney Drop](tutorials/chimney-drop/index.html) | Scratch tutorial for kids (8+) · 6 short steps · basic blocks only | It's Christmas Eve! Fly Santa's sleigh over the town and drop the presents down the chimneys. But the town keeps moving, so you have to drop each present a little early. Every sprite has its own scripts: green flag, forever, key presses, a broadcast, clones and touching. No custom blocks, no lists. |
 | [Sky Guard](tutorials/sky-guard/index.html) | Scratch tutorial for kids (8+) · 4 short steps · basic blocks only | Meteors are falling on your valley! Turn the cannon with the mouse, click to shoot, and don't let three of them land. The whole game is 43 lines of blocks, with no custom blocks and no lists. |
 | [Sheepdog](tutorials/sheepdog/index.html) | Scratch tutorial for kids (8+) · 4 short steps · basic blocks only | You are the dog. The sheep are scared of you, so wherever you run, they run the other way. Use that to herd all eight into the pen, as fast as you can. The whole game is 28 lines of blocks. |
 | [Maze Maker](tutorials/maze-maker/index.html) | Scratch tutorial for kids · 4 short steps | A little mole digs tunnels through the soil, and when it is done, there is a maze. Every time you click the green flag, you get a new one. The trick that makes it work is a block that uses itself! |
@@ -29,6 +30,7 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Deep Dig](games/deep-dig.sb3) | Dig for gold and gems; watch out for falling rocks. |
 | [Lantern Deep](games/lantern-deep.sb3) | Dig down forever; your lantern shows treasure, lava and crawlers. |
 | [Beanstalk Bounce](games/beanstalk-bounce.sb3) | Bounce up the beanstalk, leaf by leaf. |
+| [Chimney Drop](games/chimney-drop.sb3) | Christmas: drop the presents down the chimneys. |
 | [Sky Guard](games/sky-guard.sb3) | Turn the cannon and shoot the falling meteors. |
 | [Sheepdog](games/sheepdog.sb3) | Herd all eight sheep into the pen. |
 | [Splat Patrol](games/splat-patrol.sb3) | Splat the raccoon bandits, not the villagers. |
