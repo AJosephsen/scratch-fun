@@ -8,6 +8,7 @@ Open `index.html` for the overview.
 
 | Tutorial | Level | About |
 |---|---|---|
+| [Boom Lab](tutorials/boom-lab/index.html) | Scratch tutorial for kids (9+) · 8 steps · basic blocks only | Welcome to the test range! Build eight explosion effects, from a simple flip-book pop to a mega blast with a flash, a shockwave, sparks, smoke, a ground shake and bouncing debris. Pick an effect in the toolbar and click the sky to try it. |
 | [Slime Siege](tutorials/slime-siege/index.html) | Scratch tutorial for kids (9+) · 8 steps · basic blocks only | Slimes are zigzagging across the meadow towards your keep! Drag cannons anywhere you like: fixed cannons shoot the way you point them, and seeker cannons aim at the slime in front. Destroyed slimes give coins for more cannons, repairs and upgrades: faster shooting, stronger bolts, bolts that fly through, and sturdier cannons. |
 | [Chimney Drop](tutorials/chimney-drop/index.html) | Scratch tutorial for kids (8+) · 6 short steps · basic blocks only | It's Christmas Eve! Fly Santa's sleigh over the town and drop the presents down the chimneys. But the town keeps moving, so you have to drop each present a little early. Every sprite has its own scripts: green flag, forever, key presses, a broadcast, clones and touching. No custom blocks, no lists. |
 | [Chain Spark](tutorials/chain-spark/index.html) | Scratch tutorial for kids (9+) · 6 short steps · one custom block | Put on a fireworks show! Drag rockets, shells and fountains into the night sky, turn them, then light just one. Every burst sets off the fireworks it reaches, so one match can light the whole sky. Plan a long chain: the longer the show, the more points. |
@@ -34,6 +35,7 @@ Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for
 | [Beanstalk Bounce](games/beanstalk-bounce.sb3) | Bounce up the beanstalk, leaf by leaf. |
 | [Chimney Drop](games/chimney-drop.sb3) | Christmas: drop the presents down the chimneys. |
 | [Chain Spark](games/chain-spark.sb3) | Fireworks: place them, light one, watch the chain. |
+| [Boom Lab](games/boom-lab.sb3) | Eight explosion effects to try: pick one and click the sky. |
 | [Slime Siege](games/slime-siege.sb3) | Tower defence: fixed and seeker cannons, upgrades and repairs. |
 | [Chain Spark Deluxe](games/chain-spark-deluxe.sb3) | Fireworks puzzle: build, test, then GO for real. |
 | [Sky Guard](games/sky-guard.sb3) | Turn the cannon and shoot the falling meteors. |
