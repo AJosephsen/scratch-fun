@@ -23,6 +23,11 @@ Open `index.html` for the overview.
 
 Every tutorial folder has `starter.sb3` (artwork, no code) and a `stepN.sb3` for the end of each step.
 
+## Sprites
+
+[Effect Sprites](sprites/index.html): explosions, sparks, smoke, debris and a screen flash, each with its own sound
+(`.sprite3` files to add with **Upload Sprite**).
+
 ## Games
 
 | Game | About |
